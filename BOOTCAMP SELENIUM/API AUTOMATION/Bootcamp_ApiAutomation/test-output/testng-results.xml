@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-03T02:46:56 EDT" name="Default suite" finished-at="2022-05-03T02:46:59 EDT" duration-ms="2831">
+    <groups>
+    </groups>
+    <test started-at="2022-05-03T02:46:56 EDT" name="Default test" finished-at="2022-05-03T02:46:59 EDT" duration-ms="2831">
+      <class name="com.FrameWork.Bootcamp_ApiAutomation.Delete_Operation">
+        <test-method signature="Delete_a_record_from_City()[pri:0, instance:com.FrameWork.Bootcamp_ApiAutomation.Delete_Operation@3c73951]" started-at="2022-05-03T02:46:56 EDT" name="Delete_a_record_from_City" finished-at="2022-05-03T02:46:59 EDT" duration-ms="2587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_a_record_from_City -->
+        <test-method signature="Delete_a_record_from_Customers()[pri:0, instance:com.FrameWork.Bootcamp_ApiAutomation.Delete_Operation@3c73951]" started-at="2022-05-03T02:46:59 EDT" name="Delete_a_record_from_Customers" finished-at="2022-05-03T02:46:59 EDT" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_a_record_from_Customers -->
+        <test-method signature="Delete_a_record_from_EmployeeDetails()[pri:0, instance:com.FrameWork.Bootcamp_ApiAutomation.Delete_Operation@3c73951]" started-at="2022-05-03T02:46:59 EDT" name="Delete_a_record_from_EmployeeDetails" finished-at="2022-05-03T02:46:59 EDT" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Delete_a_record_from_EmployeeDetails -->
+      </class> <!-- com.FrameWork.Bootcamp_ApiAutomation.Delete_Operation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
